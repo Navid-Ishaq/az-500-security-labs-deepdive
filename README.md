@@ -52,6 +52,26 @@ No experience? No problem.
 This repo was written *for* you. Step-by-step. Word-by-word. Click-by-click.
 
 ---
+---
+
+## 🎯 BONUS WIN: One Lab Set. Four Certifications.  
+⚡ Yes, you read that right.
+
+These 28 deep-dive labs don’t just prepare you for **AZ-500**.  
+They secretly unlock your readiness for **three more Microsoft certifications** too:
+
+🧠 **AZ-900** — Azure Fundamentals  
+🔐 **SC-900** — Security, Compliance & Identity Fundamentals  
+🛠️ **AZ-104** — Azure Administrator Associate  
+🚨 **AZ-500** — Azure Security Engineer Associate (the main focus)
+
+That’s **one lab set, four certifications, and unlimited confidence**.  
+Not bad for something that starts with simple, beginner-friendly steps. 🌱
+
+✨ Whether you're looking to enter IT, upgrade your job, or pass multiple certs...  
+**You’re holding the right lab guide. Let’s make it count.**
+
+---
 
 ## 🔐 What Will You Learn?
 
