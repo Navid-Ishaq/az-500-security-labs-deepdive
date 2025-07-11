@@ -1,5 +1,6 @@
-# Point 2 of 9: 02 Character Reflection
+# 02 Working With Resource Tags
 
-**Lab:** 02 Working With Resource Tags
+## Point 2 of 9: Character Reflection
 
-**Summary:** This section covers *02 character reflection* as part of the overall lab objective. It offers insights and applied understanding in the context of Azure Security best practices.
+Reflect on whether the character/team achieved their goal.  
+Were there blockers, surprises, or lessons learned?
