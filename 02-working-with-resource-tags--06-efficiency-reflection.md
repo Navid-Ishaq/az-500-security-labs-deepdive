@@ -1,5 +1,5 @@
-# Point 6 of 9: 06 Efficiency Reflection
+# 02 Working With Resource Tags
 
-**Lab:** 02 Working With Resource Tags
+## Point 6 of 9: Efficiency & Real-World Reflection
 
-**Summary:** This section covers *06 efficiency reflection* as part of the overall lab objective. It offers insights and applied understanding in the context of Azure Security best practices.
+Zoom out: Was this setup efficient? How does it scale or apply to real business use?
