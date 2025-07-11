@@ -1,5 +1,5 @@
-# Point 3 of 9: 03 Lab Purpose And Tools
+# 02 Working With Resource Tags
 
-**Lab:** 02 Working With Resource Tags
+## Point 3 of 9: Lab Purpose & Azure Tools
 
-**Summary:** This section covers *03 lab purpose and tools* as part of the overall lab objective. It offers insights and applied understanding in the context of Azure Security best practices.
+Clearly define the goal of the lab and list the key Azure services/tools used.
