@@ -1,5 +1,5 @@
-# Point 1 of 9: 01 Real World Scenario
+# 02 Working With Resource Tags
 
-**Lab:** 02 Working With Resource Tags
+## Point 1 of 9: Real-World Scenario
 
-**Summary:** This section covers *01 real world scenario* as part of the overall lab objective. It offers insights and applied understanding in the context of Azure Security best practices.
+Introduce the real-world problem that this lab is designed to solve.
