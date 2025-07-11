@@ -1,5 +1,5 @@
-# Point 5 of 9: 05 Hands On Walkthrough
+# 02 Working With Resource Tags
 
-**Lab:** 02 Working With Resource Tags
+## Point 5 of 9: Hands-On Walkthrough
 
-**Summary:** This section covers *05 hands on walkthrough* as part of the overall lab objective. It offers insights and applied understanding in the context of Azure Security best practices.
+Break down the lab steps one by one as done in Azure Portal or CLI, with guidance.
