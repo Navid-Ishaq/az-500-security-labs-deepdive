@@ -1,5 +1,5 @@
-# Point 4 of 9: 04 Text Based Diagram
+# 02 Working With Resource Tags
 
-**Lab:** 02 Working With Resource Tags
+## Point 4 of 9: Text-Based Diagram
 
-**Summary:** This section covers *04 text based diagram* as part of the overall lab objective. It offers insights and applied understanding in the context of Azure Security best practices.
+Provide an easy-to-read, ASCII-style diagram to show how components connect or how the process flows.
