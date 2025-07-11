@@ -1,5 +1,6 @@
-# Point 7 of 9: 07 Conceptual Mcqs
+# 02 Working With Resource Tags
 
-**Lab:** 02 Working With Resource Tags
+## Point 7 of 9: Conceptual MCQs for Exam Readiness
 
-**Summary:** This section covers *07 conceptual mcqs* as part of the overall lab objective. It offers insights and applied understanding in the context of Azure Security best practices.
+Add 10+ multiple choice questions based on AZ-500 exam objectives.  
+Focus on theory and Azure-native definitions related to resource tagging.
