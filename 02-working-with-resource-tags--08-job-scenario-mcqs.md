@@ -1,5 +1,6 @@
-# Point 8 of 9: 08 Job Scenario Mcqs
+# 02 Working With Resource Tags
 
-**Lab:** 02 Working With Resource Tags
+## Point 8 of 9: Job Scenario MCQs for Interview Practice
 
-**Summary:** This section covers *08 job scenario mcqs* as part of the overall lab objective. It offers insights and applied understanding in the context of Azure Security best practices.
+Add 10+ MCQs that reflect real-world decision-making for Azure Admin/Security roles.  
+Use characters, fictional companies, and common edge cases.
