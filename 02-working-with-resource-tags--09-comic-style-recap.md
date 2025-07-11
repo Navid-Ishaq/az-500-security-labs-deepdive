@@ -1,5 +1,6 @@
-# Point 9 of 9: 09 Comic Style Recap
+# 02 Working With Resource Tags
 
-**Lab:** 02 Working With Resource Tags
+## Point 9 of 9: Comic-Style Summary
 
-**Summary:** This section covers *09 comic style recap* as part of the overall lab objective. It offers insights and applied understanding in the context of Azure Security best practices.
+Create a fun, lighthearted summary using storytelling, characters, and humor.  
+Make the key ideas easy to remember and joyful to reflect on.
