@@ -1,6 +1,6 @@
 # 01 Creating Azure Resource Locks
 
-# 🔹 Point 4 of 9: Visualizing the Lab Journey — From VM Creation to Lockdown
+ ## 🔹 Point 4 of 9: Visualizing the Lab Journey — From VM Creation to Lockdown
 
 ---
 
