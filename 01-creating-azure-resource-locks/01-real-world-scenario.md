@@ -3,11 +3,9 @@
 
 # 🔹 Point 1 of 9: Securing Azure Resources with Locks — A Smart Move for Stability
 
-## 🎓 Today Lab: Creating Azure Resource Locks
-
 ---
 
-# 🔐 **Main Title: “Lock It Down Before It Goes Down!” — How Resource Locks Saved the Day at BrightOps Solutions**
+# 🔐 **“Lock It Down Before It Goes Down!” — How Resource Locks Saved the Day at BrightOps Solutions**
 
 Welcome to a day in the life of a bustling IT team at **BrightOps Solutions**, a growing tech consultancy firm that’s juggling multiple client environments in the cloud. Meet **Ayesha**, a cloud administrator from Nairobi, and **Jordan**, a junior DevOps engineer from Toronto. Together, they’re about to learn why **resource locks in Azure** aren’t just good practice — they’re essential for business continuity.
 
