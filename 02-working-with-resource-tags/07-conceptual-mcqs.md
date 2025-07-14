@@ -145,5 +145,3 @@ Below are conceptual multiple-choice questions (MCQs) designed to reinforce your
 > — **Siraat AI Academy**
 
 ---
-```
-
