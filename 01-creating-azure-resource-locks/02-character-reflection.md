@@ -4,7 +4,7 @@
 
 ---
 
-# 🌈 **Main Title: From Nervous Clicks to Confident Cloud Moves — Ayesha & Jordan Reflect**
+# 🌈 **From Nervous Clicks to Confident Cloud Moves — Ayesha & Jordan Reflect**
 
 The glow of a finished lab is something special — that quiet moment when you lean back, breathe out, and say, *“Wow, I actually did it.”*
 At **BrightOps Solutions**, a small but mighty tech firm, **Ayesha** and **Jordan** just wrapped up their Azure lab on **resource locks**. But did they just *complete* the lab... or did they *learn* something deeper?
