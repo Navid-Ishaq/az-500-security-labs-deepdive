@@ -72,8 +72,9 @@ Absolutely. Not only would they reuse the steps, they’d **standardize** them.
 
 ---
 
-> ***Clarity isn’t something you wait for — it’s something you build, one step at a time.***
-> — Jamalu
+> _**Clarity isn’t something you wait for — it’s something you build, one step at a time.**_  
+> — Jamalu  
 > — **Siraat AI Academy**
 
 ---
+
