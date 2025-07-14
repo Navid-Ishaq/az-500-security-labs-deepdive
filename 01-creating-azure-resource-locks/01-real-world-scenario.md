@@ -96,8 +96,9 @@ Resource locks may not seem glamorous, but in a real business context, they’re
 
 ---
 
-> *"Every safeguard we put in place is a quiet promise to do better — not just for systems, but for the people who rely on them."*
-> — Jamalu
+> _"Every safeguard we put in place is a quiet promise to do better — not just for systems, but for the people who rely on them."_  
+> — Jamalu  
 > — **Siraat AI Academy**
 
 ---
+
