@@ -1,6 +1,5 @@
 # 01 Creating Azure Resource Locks
 
-## Point 1 of 9: Real-World Scenario
 
 # 🔹 Point 1 of 9: Securing Azure Resources with Locks — A Smart Move for Stability
 
