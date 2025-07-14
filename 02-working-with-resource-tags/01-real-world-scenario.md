@@ -1,8 +1,3 @@
-# 02 Working With Resource Tags
-
-
----
-
 # 🗂️ **Tag It Right, Keep It Tight!**
 
 ### Point 1 of 9 – Organizing Cloud Chaos with Azure Tags
