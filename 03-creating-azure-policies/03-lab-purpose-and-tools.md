@@ -82,8 +82,9 @@ What started as a technical experiment became a strategic win. **Ayesha** saw th
 
 ---
 
-> *"Cloud tools don’t just automate — they advocate. They say: here’s how we work, and here’s how we stay wise."*
-> — Jamalu
+> _Cloud tools don’t just automate — they advocate. They say: here’s how we work, and here’s how we stay wise._  
+> — Jamalu  
 > — **Siraat AI Academy**
 
 ---
+
