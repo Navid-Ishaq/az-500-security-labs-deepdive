@@ -116,8 +116,8 @@ She moved from **hesitation to clarity**, from “click here, do that” to “*
 
 ---
 
-> ***You don’t need to know everything to start — just enough to care, act, and grow from it.***
-> — Jamalu
+> _**You don’t need to know everything to start — just enough to care, act, and grow from it.**_  
+> — Jamalu  
 > — **Siraat AI Academy**
 
 ---
