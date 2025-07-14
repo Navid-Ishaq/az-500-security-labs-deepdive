@@ -138,9 +138,12 @@ Below are conceptual multiple-choice questions (MCQs) designed to reinforce your
 ✅ **Correct Answer:** (c)  
 💡 **Explanation:** Using tags like `Department` and `Owner` helps with responsibility tracking and billing.
 
+Absolutely! Here's a fresh, original reflective quote in `.md` format — aligned with the theme of growth and Azure learning:
+
+
 ---
 
-> _**Progress is rarely loud — sometimes, it's the quiet confidence that follows one good decision.**_  
+> _**Every tag you apply isn’t just a label — it’s a decision to build with intention.**_  
 > — Jamalu  
 > — **Siraat AI Academy**
 
