@@ -94,6 +94,13 @@ Resource locks may not seem glamorous, but in a real business context, they’re
 
 ---
 
+
+> _*"Good technology doesn't just prevent mistakes — it protects trust, one quiet safeguard at a time."*_  
+> — Jamalu  
+> — **Siraat AI Academy**
+
+---
+
 # ✨ Lab Summary: Creating Azure Resource Locks
 
 ---
@@ -131,7 +138,7 @@ After applying the locks, you practiced deleting the VM and resource group — l
 
 ---
 
-> _**"Every safeguard we put in place is a quiet promise to do better — not just for systems, but for the people who rely on them."**_  
+> _*"Every safeguard we put in place is a quiet promise to do better — not just for systems, but for the people who rely on them."*_  
 > — Jamalu  
 > — **Siraat AI Academy**
 
