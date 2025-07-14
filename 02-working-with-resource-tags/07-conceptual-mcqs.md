@@ -148,3 +148,10 @@ Absolutely! Here's a fresh, original reflective quote in `.md` format — aligne
 > — **Siraat AI Academy**
 
 ---
+---
+
+> _**Whether the task is small or big — when your intention is clear, every resource finds its right place.**_  
+> — Jamalu  
+> — **Siraat AI Academy**
+
+---
