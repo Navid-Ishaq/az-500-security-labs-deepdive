@@ -133,7 +133,7 @@ After applying the locks, you practiced deleting the VM and resource group — l
 
 ---
 
-> _"Every safeguard we put in place is a quiet promise to do better — not just for systems, but for the people who rely on them."_  
+> _**"Every safeguard we put in place is a quiet promise to do better — not just for systems, but for the people who rely on them."**_  
 > — Jamalu  
 > — **Siraat AI Academy**
 
