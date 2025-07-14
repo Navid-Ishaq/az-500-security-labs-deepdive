@@ -4,7 +4,7 @@
 
 ---
 
-# 🧭 **Main Title: "Lock It In!" — A Visual Story of Azure Resource Protection**
+# 🧭 **"Lock It In!" — A Visual Story of Azure Resource Protection**
 
 At **BrightOps Solutions**, a busy tech support team is building a safer, smarter cloud. In this lab, **Ayesha**, **Jordan**, and **Rohan** walk through the process of creating an Azure Virtual Machine — and then protecting it using **resource locks**.
 
