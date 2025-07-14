@@ -117,8 +117,8 @@ A small lab. A big shift.
 
 ---
 
-> **Clarity isn’t just a technical skill — it’s a leadership move. Keep building with intention.**
-> — Jamalu
+> _**Clarity isn’t just a technical skill — it’s a leadership move. Keep building with intention.**_  
+> — Jamalu  
 > — **Siraat AI Academy**
 
 ---
