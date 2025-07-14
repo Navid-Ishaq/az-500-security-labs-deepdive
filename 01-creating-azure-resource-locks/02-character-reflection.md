@@ -99,6 +99,12 @@ Ayesha → 💪 “We’re building a stronger team.”
 They didn’t just *do* the lab. They *owned* it.
 
 ---
+
+> _"Growth doesn’t always come with noise — sometimes, it’s the quiet confidence after a job well done."_  
+> — Jamalu  
+> — **Siraat AI Academy**
+
+---
 # ✨ Reflection Summary: Did Ayesha & Jordan Succeed in the Lab?
 
 ---
@@ -142,7 +148,7 @@ Ayesha and Jordan from **BrightOps Solutions** tackled the challenge of creating
 
 ---
 
-> _"Growth doesn’t always come with noise — sometimes, it’s the quiet confidence after a job well done."_  
+> _"What once looked like a wall was really just a door waiting for the right hands to open it."_  
 > — Jamalu  
 > — **Siraat AI Academy**
 
