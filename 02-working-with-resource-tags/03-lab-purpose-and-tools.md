@@ -123,9 +123,10 @@ Tagging isn’t just good practice. It’s good teamwork.
 
 ---
 
-> ***Structure creates confidence. And confidence leads to clarity. One tag at a time.***
-> — Jamalu
+> _**Structure creates confidence. And confidence leads to clarity. One tag at a time.**_  
+> — Jamalu  
 > — **Siraat AI Academy**
 
 ---
+
 
