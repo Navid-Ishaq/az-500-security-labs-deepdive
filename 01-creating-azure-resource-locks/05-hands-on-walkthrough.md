@@ -140,7 +140,9 @@ This wasn’t just about clicking buttons in Azure. It was about learning how **
 ---
 
 > **"In every step you take to secure the cloud, you're really protecting the people behind it."**
+
 > — Jamalu
+
 > — **Siraat AI Academy**
 
 ---
