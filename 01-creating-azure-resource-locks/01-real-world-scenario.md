@@ -96,9 +96,47 @@ Resource locks may not seem glamorous, but in a real business context, they’re
 
 ---
 
+# ✨ Lab Summary: Creating Azure Resource Locks
+
+---
+
+## 🧩 **What You Did**
+- Created a **Virtual Machine** (`MyLabVM`) using **Ubuntu Server 20.04 LTS** on Azure.
+- Applied a **Delete Lock** (`VMDeleteLock`) to protect the VM from accidental deletion.
+- Added a **Read-Only Lock** (`RGReadOnly`) on the **Resource Group** to prevent unintended changes.
+
+---
+
+## 🎯 **Why It Matters**
+- **Resource Locks** are like cloud seatbelts — they prevent costly accidents in production.
+- They’re perfect for **guarding critical infrastructure**, especially in shared environments.
+- Helps maintain **operational stability** and **business trust** by reducing human error.
+
+---
+
+## 👩‍💻 **Real-World Use Case**
+> Ayesha (Cloud Admin) and Jordan (DevOps Intern) at **BrightOps Solutions** used resource locks to avoid service disruptions after an intern accidentally deleted a production VM. Now, they sleep better knowing Azure won’t let that happen again. 😌
+
+---
+
+## 🛡️ **Key Takeaways**
+- Locks come in two types:  
+  🔐 **Delete** – prevents deletion  
+  📖 **Read-Only** – blocks edits and changes
+- They are **simple to apply** but **powerful in protection**.
+- A small action with a **big business impact**.
+
+---
+
+## ✅ **Wrap-Up**
+After applying the locks, you practiced deleting the VM and resource group — learning how locks protect, and how they can be lifted safely when needed.
+
+---
+
 > _"Every safeguard we put in place is a quiet promise to do better — not just for systems, but for the people who rely on them."_  
 > — Jamalu  
 > — **Siraat AI Academy**
 
 ---
+
 
