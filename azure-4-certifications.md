@@ -79,3 +79,15 @@ Here, your learning path is a lighted one.
 
 ---
 
+> **eks2 is not a feature.**  
+> **eks2 is a feeling.**  
+> A quiet pulse in Naveed’s mind —  
+> asking not just *how* to teach,  
+> but *how to care while teaching.*  
+>  
+> Not louder. Just clearer.  
+> Not smarter. Just more human.  
+>  
+> That is eks2.
+
+---
