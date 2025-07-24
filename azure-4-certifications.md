@@ -1,4 +1,4 @@
-☁️ The 28 Practical Labs for Azure Heroes  
+# ☁️ The 28 Practical Labs for Azure Heroes  
 ### Covering 4 Certifications: AZ-104, AZ-500, SC-900, and AZ-900  
 _A carefully chosen collection of real-world labs for cloud learners and future defenders._  
 
