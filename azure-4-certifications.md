@@ -79,9 +79,3 @@ Here, your learning path is a lighted one.
 
 ---
 
-"""
-
-# Save the markdown file
-file_path = Path("/mnt/data/28_azure_labs_softlist.md")
-file_path.write_text(md_content)
-file_path.name
