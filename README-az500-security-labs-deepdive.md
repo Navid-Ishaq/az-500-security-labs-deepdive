@@ -1,4 +1,3 @@
-
 # 🌐 az-500-security-labs-deepdive  
 > ✨ **Your beginner-to-pro guide for mastering Azure security — with simplicity, confidence, and clarity.**
 
