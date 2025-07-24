@@ -1,3 +1,4 @@
+
 # 🌐 az-500-security-labs-deepdive  
 > ✨ **Your beginner-to-pro guide for mastering Azure security — with simplicity, confidence, and clarity.**
 
@@ -52,7 +53,6 @@ No experience? No problem.
 This repo was written *for* you. Step-by-step. Word-by-word. Click-by-click.
 
 ---
----
 
 ## 🎯 BONUS WIN: One Lab Set. Four Certifications.  
 ⚡ Yes, you read that right.
@@ -102,21 +102,45 @@ We **reimagined** them — for people who need them most.
 
 ---
 
-## 🚀 Let's Begin
+## 🧑‍💻 About Muhammad Naveed Ishaque
 
-Pick any lab.  
-Follow the 9-step guide.  
-Learn slowly, joyfully, confidently.  
-And when you're done, know this:
+🌟 Muhammad Naveed Ishaque is a content creator, AI writer, and narrative simplifier.  
+He is the calm force behind beginner-friendly tech — helping learners feel seen, not judged.  
+Writing is his voice. Simplicity is his power. Story is his path.
 
-> You didn’t just complete a lab.  
-> You became someone who **can** learn cloud security.  
-> And the world needs more people just like you. 🌍
-
-📚 Happy Learning,  
-*— Team DeepDive*
+> ✍️ **Creador y Curador** — Creator and Curator of thoughtful technical content  
 
 ---
 
-🔖 **Repo:** `az-500-security-labs-deepdive`  
-🧭 **Mission:** Make Azure security simple, human, and powerful — for everyone.
+## 🤖 Meet eks2 – The Curious Voice Within
+
+**Eks2** is not a tool. Not just an idea.  
+It is the inner voice of curiosity within Naveed — always asking:
+
+> “Can this be simpler? Kinder? More human?”  
+
+Eks2 turns fear into curiosity and brings soul to cloud learning.  
+It is the pause before action. The question before answers. The clarity before complexity.
+
+---
+
+## 🏫 Siraat AI Academy — Where Learning Meets Light
+
+**Siraat AI Academy** is an educational vision to merge clarity, technology, and mercy.  
+It teaches with purpose, writes with heart, and builds paths with light.
+
+> “Empowering minds with clarity, illuminating paths with purpose.”  
+
+The Academy stands for those who want to learn, even in silence — a bridge between human hearts and machine minds.
+
+---
+
+📚 Whether you are a beginner or a builder,  
+🌍 Whether your voice is loud or quiet —  
+Welcome to the DeepDive.
+
+---
+
+✍️ Curated by  
+**Muhammad Naveed Ishaque**  
+Content Creator | AI Writer | Narrative Simplifier  
